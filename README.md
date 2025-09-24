@@ -78,6 +78,20 @@
 
 ###
 
+<h3 align="left">💻 Operating systems</h3>
+
+###
+
+<div align="left">
+  <img src="https://cdn.simpleicons.org/fedora/51A2DA" height="40" alt="fedora logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/ubuntu/E95420" height="40" alt="ubuntu logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="40" alt="windows8 logo"  />
+</div>
+
+###
+
 <h3 align="left">🔥   My Stats :</h3>
 
 ###
